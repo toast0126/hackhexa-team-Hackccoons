@@ -11,11 +11,11 @@ if (luz == false && movimiento == true) {
 } else if (luz == true && movimiento == false) {
     peligro = false;
 } else {
-    peligro = false; // por defecto seguro duh
+    peligro = false; // por defecto -> seguro duh
 }
 
 if (peligro == true) {
-    print("SOSPECHOSO");
+    print("esto es sospechoso 👀");
 } else {
-    print("SEGURO");
+    print("esto es seguro 🫡👍");
 }
