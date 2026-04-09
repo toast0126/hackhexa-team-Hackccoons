@@ -12,10 +12,19 @@ if (movimiento = true && ruido = true) then{
     peligro = true;
 }
 
-if  (movimiento = true && ruido = true) then {
+if  (luz = true && ruido = true) then {
     peligro = true;
 }
 
 Ejemplos:
-1.
-    
+1. 
+    En una plaza un sensor detecta sonido mas no hay luz en el area, 
+    puede ser actividad sospechosa ya que los locales pueden estar 
+    siendo traspasados.
+2. 
+    Un sensor en una tiend detencta altos niveles de ruido y mucho 
+    movimiento, esto puede ser a causa de una persona armada amenazando 
+    con la seguridad del lugar.
+3.
+    Un sensor en un parque detecta mucha luz y mucho ruido, el cual puede
+    ser causado por un incendio y gente gritando en pánico.
