@@ -1,0 +1,17 @@
+
+bool luz;
+bool movimiento;
+bool ruido;
+bool peligro;
+
+if luz = false && ruido = true then {
+    peligro = true; 
+}
+
+if movimiento = true && ruido = true then {
+    peligro = true;
+}
+
+if  movimiento = true && ruido = true then {
+    peligro = true;
+}
