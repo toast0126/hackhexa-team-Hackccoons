@@ -15,3 +15,7 @@ if (movimiento = true && ruido = true) then{
 if  (movimiento = true && ruido = true) then {
     peligro = true;
 }
+
+Ejemplos:
+1.
+    

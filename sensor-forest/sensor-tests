@@ -2,13 +2,16 @@ bool luz;
 bool movimiento;
 bool peligro;
 
+ejemplo:
+    luz = false;
+    movimiento = true;
 
 if (luz == false && movimiento == true) {
     peligro = true;
 } else if (luz == true && movimiento == false) {
     peligro = false;
 } else {
-    peligro = false; // por defecto seguro
+    peligro = false; // por defecto seguro duh
 }
 
 if (peligro == true) {
