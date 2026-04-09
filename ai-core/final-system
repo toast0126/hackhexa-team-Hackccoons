@@ -2,4 +2,12 @@
 Incluir: sensores, rutas, desifrado y clasificacion.
 zorro -> mejorar ciudad
 
-En una ciudad es 
+Para cuidar la ciudad o mejorarla, podemos usar diferentes sensores para
+detectar actividad sospechosa en areas inseguras o asegurar seguridad a 
+los ciudadanos, podemos facilitar el transporte en nuestra ciudad al 
+mejorar rutas y optimizar el transporte, los datos recopilados por los sensores
+se recopilan en un codigo diferente al que hablamos normalmente, descifrarlos
+nos brinda la informacion y ayuda a entender los resultados de los sensores la
+el clasificar el feedback recibido por los usuarios nos ayuda a ver que se puede
+mejorar en nuestra ciudad y si algun cambio es bueno, el zorrito puede usar todo esto
+para mejorar su ciudad y hacer felices a los ciudadanos :).
