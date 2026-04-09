@@ -1,3 +1,5 @@
-Basándonos en el tipo de cifrado, identificamos que el mensaje utiliza un desplazamiento en el abecedario. 
-Este método consiste en mover cada letra una posición hacia atrás: por ejemplo, la “I” se convierte en “H”, 
+Basándonos en el tipo de cifrado, identificamos que el mensaje utiliza 
+un desplazamiento en el abecedario. 
+Este método consiste en mover cada letra una posición hacia atrás: 
+por ejemplo, la “I” se convierte en “H”, 
 y así sucesivamente hasta obtener la palabra “HOLA”.
