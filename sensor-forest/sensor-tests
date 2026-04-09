@@ -2,11 +2,7 @@ bool luz;
 bool movimiento;
 bool peligro;
 
-// Caso A (ejemplo)
-luz = false;
-movimiento = true;
 
-// Evaluación
 if (luz == false && movimiento == true) {
     peligro = true;
 } else if (luz == true && movimiento == false) {
@@ -15,7 +11,6 @@ if (luz == false && movimiento == true) {
     peligro = false; // por defecto seguro
 }
 
-// Resultado
 if (peligro == true) {
     print("SOSPECHOSO");
 } else {
